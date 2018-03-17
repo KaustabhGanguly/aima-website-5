@@ -1,6 +1,6 @@
 # AIMA WEBSITE 5
-This is the 5th website made for AIMA to showcase my design skills . This website uses NEXT.JS to deploy a static website powered by React  . 
 
+I am exploring all kinds of ways to test what suits AIMA exercise best . In this project I tested Next.js but I am not satisfied with the React routing for static websites . Till now Hugo is best .
 
 I haven't uploaded the node_modules folder which has 1700 files . It will get automatically installed once you run the code. 
 
