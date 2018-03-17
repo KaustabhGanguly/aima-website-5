@@ -5,11 +5,9 @@ I am exploring all kinds of ways to test what suits AIMA exercise best . In this
 I haven't uploaded the node_modules folder which has 1700 files . It will get automatically installed once you run the code. 
 
 ```
-mkdir hello-next
-cd hello-next
-npm init -y
+
 npm install --save react react-dom next
-mkdir pages
+
 
 ```
 At the moment Next.js is only supported by Zeit Now Satic Hosting site , so I can't create a github page through it . But it's worth seeing .
