@@ -18,7 +18,7 @@ I explored this framework to test if it suits AIMA Project or not . Though React
 
 This is how it looks without any theme :
 
-![](https://image.ibb.co/gz1qFH/Screen_Shot_2018_03_17_at_8_38_51_PM.png)
+![](https://preview.ibb.co/gz1qFH/Screen_Shot_2018_03_17_at_8_38_51_PM.png)
 ![](https://image.ibb.co/gEfT2x/Screen_Shot_2018_03_17_at_8_39_00_PM.png)
 
 
